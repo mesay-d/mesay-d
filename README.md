@@ -55,8 +55,8 @@ Improving full stack architecture & system design
 Enhancing performance and scalability
 
 📫 Contact
-LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-Email: your.email@example.com
+LinkedIn: https://www.linkedin.com/in/mesay-erbeto/
+Email: mesayerbeto2@gmail.com
 
 ⚡️ Fun Fact
 I enjoy building scalable full stack applications and turning complex problems into simple solutions.
